@@ -117,6 +117,7 @@ a {
         }
 
         .content-box {
+            padding: 15px;
             grid-area: 1/2/2/3;
         }
 
@@ -148,5 +149,11 @@ a {
 
         h1 {
             font-size: 45px;
+        }
+    }
+
+    @media only screen and (min-width: 1400px) {
+        .logo-box {
+            padding: 100px;
         }
     }
