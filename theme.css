@@ -25,7 +25,6 @@ body {
 }
 
 h1 {
-    border: 2px solid #d91600;
     text-align: center;
     width: 65%;
     margin: auto;
@@ -117,7 +116,7 @@ a {
         }
 
         .content-box {
-            padding: 15px;
+            padding: 65px 15px 0px 15px;
             grid-area: 1/2/2/3;
         }
 
